@@ -5,7 +5,7 @@ Remote Sensing Application of SAHI implemented in C#
 - Download runtime.zip and MapSrc.zip( google drive :  https://drive.google.com/drive/folders/125s4yRGF0KdkYzBOiIfaZzmLcTLTpR-i?usp=sharing   )
 - Unzip the zip files in C: Drive    
 - Place the runtime folder under YOLO_SAHI_Demo
-- ****
+- Load one of the tif files with OPEN File button and run inference or SAHI on the image
 
 
 1. Inference on 640x640 Image
