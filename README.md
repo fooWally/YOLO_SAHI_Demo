@@ -15,10 +15,10 @@ Remote Sensing Application of SAHI implemented in C#
 
   + SAHI (Slicing Aided Hyper Inference) with YOLO11s
     
-    - Image Sample taken from QGIS ( GoogleMap Satellite )
+    - Image samples are taken from QGIS ( GoogleMap Satellite )
    
-    - Image size : 15000x15000 pixels, Real Life Distance : about 3kmx3km
-     
+    - e.g. sample_wgs84_15k.tif consists of 15,000x15,000 pixels, 3km in real-life distance. 
+           
 <img width="1920" height="1030" alt="C#GMap_WPF_GDAL_ONNX_YOLO_SAHI1" src="https://github.com/user-attachments/assets/5e9b2ebf-b9a2-48fb-ac3f-9f4b35a9a987" />
 
 
