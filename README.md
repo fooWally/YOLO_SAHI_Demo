@@ -8,7 +8,7 @@ Remote Sensing Application of SAHI implemented in C#
 - Load one of the tif files with OPEN File button and run inference or SAHI on the image
 
 
-  + Inference on 640x640 Image
+  + A Single Inference on 640x640 Image
 
 <img width="1920" height="1030" alt="C#GMap_WPF_GDAL_ONNX_YOLO_1" src="https://github.com/user-attachments/assets/1ec0fd39-248c-43d2-9c58-bbf38fab7999" />
 
