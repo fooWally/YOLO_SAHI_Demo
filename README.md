@@ -9,7 +9,7 @@ For GPU use, it needs to be built with the CUDA and cudnn installed on your syst
 - Download YOLO_SAHI_Demo.zip
 - Download gdal.7z, onnxruntime.7z, runtime.7z and MapSrc.7z from google drive ( https://drive.google.com/drive/folders/125s4yRGF0KdkYzBOiIfaZzmLcTLTpR-i?usp=sharing )
 - Unzip the zip files in C: Drive    
-- Place the runtime, gdal and onnxruntime folder under YOLO_SAHI_Demo and move the onnx dlls where GMapWPF.exe is 
+- Place the runtime, gdal and onnxruntime folders under YOLO_SAHI_Demo and move the onnx dlls where GMapWPF.exe is 
 - Load one of the tif files with OPEN File button and run inference or SAHI on the image
 
 
