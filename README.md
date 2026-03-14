@@ -2,9 +2,9 @@
 Remote Sensing Application of SAHI implemented in C#
 ## 📰 How to use :
 - Download YOLO_SAHI_Demo.zip
-- Download runtime.zip and MapSrc.zip( google drive :  https://drive.google.com/drive/folders/125s4yRGF0KdkYzBOiIfaZzmLcTLTpR-i?usp=sharing   )
+- Download gdal.7z, onnxruntime.7z, runtime.7z and MapSrc.7z from google drive ( https://drive.google.com/drive/folders/125s4yRGF0KdkYzBOiIfaZzmLcTLTpR-i?usp=sharing )
 - Unzip the zip files in C: Drive    
-- Place the runtime folder under YOLO_SAHI_Demo
+- Place the runtime, gdal and onnxruntime folder under YOLO_SAHI_Demo and move the onnx dlls where GMapWPF.exe is 
 - Load one of the tif files with OPEN File button and run inference or SAHI on the image
 
 
