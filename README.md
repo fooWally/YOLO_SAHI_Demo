@@ -1,6 +1,10 @@
 # YOLO_SAHI_Demo
 Remote Sensing Application of SAHI implemented in C#
-The Demo works only with CPU for the moment. In order to work with GPU, the source is required to load GDAL and CUDA 
+
+The app is built to works with CPU for demo. 
+
+For GPU use, it needs to be built with the CUDA and cudnn installed on your system.
+ 
 ## 📰 How to use :
 - Download YOLO_SAHI_Demo.zip
 - Download gdal.7z, onnxruntime.7z, runtime.7z and MapSrc.7z from google drive ( https://drive.google.com/drive/folders/125s4yRGF0KdkYzBOiIfaZzmLcTLTpR-i?usp=sharing )
