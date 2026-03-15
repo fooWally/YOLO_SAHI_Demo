@@ -1,7 +1,7 @@
 # YOLO_SAHI_Demo
 Remote Sensing Application of SAHI implemented in C#.
 
-- The app is built to works with CPU for demo.
+- The app is built to work with CPU for demo.
 - For GPU use, you need the source code to build the app, compatible with
   the CUDA and cudnn installed on your system.
  
